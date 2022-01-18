@@ -8,8 +8,9 @@ public class GitLearningApplication {
 
 	public static void main(String[] args) {
 		System.out.println("My application");
-		System.out.println("Branch1 - Is it so");
+		System.out.println("Branch1 - I always wonder");
+		System.out.println("Its over");
 		SpringApplication.run(GitLearningApplication.class, args);
 	}
-
+	
 }
