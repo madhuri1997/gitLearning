@@ -8,7 +8,7 @@ public class GitLearningApplication {
 
 	public static void main(String[] args) {
 		System.out.println("My application");
-		System.out.println("Branch1");
+		System.out.println("Branch1 - Is it so");
 		SpringApplication.run(GitLearningApplication.class, args);
 	}
 
