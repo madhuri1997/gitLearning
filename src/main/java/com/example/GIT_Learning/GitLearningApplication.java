@@ -10,6 +10,7 @@ public class GitLearningApplication {
 		System.out.println("My application");
 		System.out.println("Branch1 - I always wonder");
 		System.out.println("Its over");
+		System.out.println("yesss");
 		SpringApplication.run(GitLearningApplication.class, args);
 	}
 	
